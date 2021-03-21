@@ -1,5 +1,14 @@
 # Awesome Newspapers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
-> A curated list of online newspapers covering 48 languages and 2662 sources.
+> A curated list of online newspapers covering 48 languages and 2661 sources.
+
+
+#### Purpose
+
+This list provides newspaper sources which can be useful in building corpora for NLP applications. It is particulary instrumental for low-resource languages which lack large-scale datasets.
+
+#### Support the Work
+
+If you liked the work, or if this project was useful in your work, do consider supporting this project by making a small donation here <a href="https://www.buymeacoffee.com/divkakwani" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="21" width="100"></a>
 
 #### Language-wise Statistics
 
@@ -12,7 +21,7 @@
 * [Azerbaijani](newspapers/az.csv) - 25 sources
 * [Basque](newspapers/eu.csv) - 1 sources
 * [Belarusian](newspapers/be.csv) - 3 sources
-* [Bengali](newspapers/bn.csv) - 89 sources
+* [Bengali](newspapers/bn.csv) - 88 sources
 * [Burmese](newspapers/my.csv) - 11 sources
 * [Catalan](newspapers/ca.csv) - 22 sources
 * [Croatian](newspapers/hr.csv) - 76 sources
