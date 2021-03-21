@@ -1,5 +1,5 @@
 # Awesome Newspapers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
-> A curated list of online newspapers covering 52 languages and 2934 sources.
+> A curated list of online newspapers covering 55 languages and 3578 sources.
 
 
 #### Purpose
@@ -32,10 +32,13 @@ If you liked the work, or if this project was useful in your work, do consider s
 * [English](newspapers/en.csv) - 82 sources
 * [Estonian](newspapers/et.csv) - 23 sources
 * [Finnish](newspapers/fi.csv) - 161 sources
+* [French](newspapers/fr.csv) - 493 sources
 * [Galician](newspapers/gl.csv) - 1 sources
+* [German](newspapers/de.csv) - 98 sources
 * [Gujarati](newspapers/gu.csv) - 177 sources
 * [Hebrew](newspapers/he.csv) - 16 sources
 * [Hindi](newspapers/hi.csv) - 154 sources
+* [Hungarian](newspapers/hu.csv) - 53 sources
 * [Icelandic](newspapers/is.csv) - 17 sources
 * [Japanese](newspapers/ja.csv) - 77 sources
 * [Kannada](newspapers/kn.csv) - 154 sources
