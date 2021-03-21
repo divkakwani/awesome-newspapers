@@ -1,5 +1,5 @@
 # Awesome Newspapers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
-> A curated list of online newspapers covering 48 languages and 2661 sources.
+> A curated list of online newspapers covering 52 languages and 2934 sources.
 
 
 #### Purpose
@@ -8,7 +8,8 @@ This list provides newspaper sources which can be useful in building corpora for
 
 #### Support the Work
 
-If you liked the work, or if this project was useful in your work, do consider supporting this project by making a small donation here <a href="https://www.buymeacoffee.com/divkakwani" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="21" width="100"></a>
+If you liked the work, or if this project was useful in your work, do consider supporting this project by making a small donation here <a href="https://www.buymeacoffee.com/divkakwani" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="25" width="120"></a>
+
 
 #### Language-wise Statistics
 
@@ -22,12 +23,15 @@ If you liked the work, or if this project was useful in your work, do consider s
 * [Basque](newspapers/eu.csv) - 1 sources
 * [Belarusian](newspapers/be.csv) - 3 sources
 * [Bengali](newspapers/bn.csv) - 88 sources
+* [Bulgarian](newspapers/bg.csv) - 57 sources
 * [Burmese](newspapers/my.csv) - 11 sources
 * [Catalan](newspapers/ca.csv) - 22 sources
 * [Croatian](newspapers/hr.csv) - 76 sources
 * [Czech](newspapers/cs.csv) - 115 sources
+* [Danish](newspapers/da.csv) - 53 sources
 * [English](newspapers/en.csv) - 82 sources
 * [Estonian](newspapers/et.csv) - 23 sources
+* [Finnish](newspapers/fi.csv) - 161 sources
 * [Galician](newspapers/gl.csv) - 1 sources
 * [Gujarati](newspapers/gu.csv) - 177 sources
 * [Hebrew](newspapers/he.csv) - 16 sources
@@ -59,4 +63,5 @@ If you liked the work, or if this project was useful in your work, do consider s
 * [Turkish](newspapers/tr.csv) - 76 sources
 * [Ukrainian](newspapers/uk.csv) - 20 sources
 * [Urdu](newspapers/ur.csv) - 49 sources
+* [Uzbek](newspapers/uz.csv) - 2 sources
 * [Vietnamese](newspapers/vi.csv) - 61 sources
