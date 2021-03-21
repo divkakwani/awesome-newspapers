@@ -27,7 +27,7 @@ for lang in langs:
 
 # generate md
 print(f'# Awesome Newspapers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)')
-print(f'> A curated list of newspapers for {len(num_sources.keys())} languages, covering {sum(num_sources.values())} sources.')
+print(f'> A curated list of online newspapers covering {len(num_sources.keys())} languages and {sum(num_sources.values())} sources.')
 
 print('')
 print('#### Language-wise Statistics')

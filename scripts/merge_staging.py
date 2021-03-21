@@ -1,14 +1,19 @@
 
 import csv
+import os
 
 
 with open('staging') as fp:
     rows = list(csv.reader(fp))
     for row in rows:
         lang, name, url, domain, country = row
-        data = list(csv.reader(open('newspapers/' + lang + '.csv')))
-        header = data[0]
-        sources = data[1:]
+        if os.path.exists('newspapers/' + lang + '.csv'):
+            data = list(csv.reader(open('newspapers/' + lang + '.csv')))
+            header = data[0]
+            sources = data[1:]
+        else:
+            header = ['name', 'homeurl', 'domain', 'country']
+            sources = []
 
         is_there = False
         for source in sources:
@@ -25,7 +30,7 @@ with open('staging') as fp:
             for source in sources:
                 source[0] = source[0].strip()
                 source[1] = source[1].strip()
-                source[2] = source[2].strip()
-                source[3] = source[3].strip()
+                source[2] = source[2].strip().lower()
+                source[3] = source[3].strip().lower()
                 writer.writerow(source)
 

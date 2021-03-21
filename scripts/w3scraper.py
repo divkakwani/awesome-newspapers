@@ -2,10 +2,14 @@
 
 from country_list import countries_for_language
 from country_list import available_languages
+from fastlangid.langid import LID
+
 from bs4 import BeautifulSoup
 from queue import Queue
 from langdetect import detect
 from bs4.element import Comment
+import logging
+logging.basicConfig(level=logging.DEBUG)
 
 from scrapy.linkextractors import LinkExtractor
 
@@ -19,6 +23,7 @@ import tldextract
 
 cc = coco.CountryConverter()
 headers = ua = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36'}
+langid = LID()
 
 
 lang2country = {}
@@ -51,6 +56,12 @@ def text_from_html(body):
 def get_w3_urls(lang):
     countries = cc.convert(names=lang2country[lang], to='name_short')
     iso3 = cc.convert(names=lang2country[lang], to='iso3')
+
+    if isinstance(countries, str):
+        countries = [countries]
+    if isinstance(iso3, str):
+        iso3 = [iso3]
+
     w3urls = set()
     for i, country in enumerate(countries):
         w3urls.add((iso3[i], 'https://w3newspapers.com/' + country.lower().replace(' ', '')))
@@ -100,7 +111,7 @@ def detect_language(response):
     text = text_from_html(html_string)
 
     if len(re.sub(r'\s+', '', text, flags=re.UNICODE)) > 500:
-        return detect(text)
+        return langid.predict(text)
 
     return None
 
