@@ -1,5 +1,5 @@
 # Awesome Newspapers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
-> A curated list of online newspapers covering 65 languages and 5404 sources.
+> A curated list of online newspapers covering 66 languages and 6204 sources.
 
 
 #### Purpose
@@ -8,7 +8,7 @@ This list provides newspaper sources which can be useful in building corpora for
 
 #### Support the Work
 
-If you liked the work, or if this project was useful in your work, do consider supporting this project by making a small donation here <a href="https://www.buymeacoffee.com/divkakwani" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="25" width="120"></a>
+If you liked the work, or if this project was useful in your work, do consider supporting this project by making a small donation here <a href="https://www.buymeacoffee.com/divkakwani" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 120px !important;" ></a>
 
 
 #### Language-wise Statistics
@@ -33,7 +33,7 @@ If you liked the work, or if this project was useful in your work, do consider s
 * [English](newspapers/en.csv) - 1038 sources
 * [Estonian](newspapers/et.csv) - 23 sources
 * [Finnish](newspapers/fi.csv) - 161 sources
-* [French](newspapers/fr.csv) - 493 sources
+* [French](newspapers/fr.csv) - 500 sources
 * [Galician](newspapers/gl.csv) - 1 sources
 * [German](newspapers/de.csv) - 270 sources
 * [Gujarati](newspapers/gu.csv) - 177 sources
@@ -61,13 +61,14 @@ If you liked the work, or if this project was useful in your work, do consider s
 * [Norwegian nynorsk](newspapers/nn.csv) - 15 sources
 * [Oriya (macrolanguage)](newspapers/or.csv) - 43 sources
 * [Panjabi](newspapers/pa.csv) - 157 sources
-* [Persian](newspapers/fa.csv) - 59 sources
+* [Persian](newspapers/fa.csv) - 60 sources
 * [Polish](newspapers/pl.csv) - 57 sources
 * [Portuguese](newspapers/pt.csv) - 50 sources
 * [Pushto](newspapers/ps.csv) - 11 sources
 * [Serbian](newspapers/sr.csv) - 51 sources
 * [Sinhala](newspapers/si.csv) - 20 sources
 * [Slovak](newspapers/sk.csv) - 34 sources
+* [Spanish](newspapers/es.csv) - 792 sources
 * [Swahili (macrolanguage)](newspapers/sw.csv) - 11 sources
 * [Swedish](newspapers/sv.csv) - 103 sources
 * [Tagalog](newspapers/tl.csv) - 7 sources

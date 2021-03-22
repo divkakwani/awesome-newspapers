@@ -58,6 +58,7 @@ arib,http://www.arib.info/,general,bdi
 aujourd8,https://www.aujourd8.net/,general,bfa
 aujourdhui,http://aujourdhui.ma/,general,mar
 aujourdhui_en_guinee,http://www.aujourdhui-en-guinee.com/,general,gin
+avenir_cotedazur,https://www.avenir-cotedazur.com/fr/,general,fra
 avesnois,http://www.avesnois.com/,general,fra
 bamada,http://bamada.net/,general,mli
 benininfo,https://www.benininfo.com/,general,ben
@@ -142,6 +143,7 @@ francesoir,http://www.francesoir.fr/,general,fra
 francetvinfo,https://la1ere.francetvinfo.fr/mayotte/,general,com
 fraternitebj,https://www.fraternitebj.info/,general,ben
 fraternitenews,https://fraternitenews.info/,general,tgo
+gabonactu,http://www.gabonactu.com/,general,gab
 gabonallsport,http://gabonallsport.info/,general,gab
 gabonews,http://www.gabonews.com/,general,gab
 gaboninitiatives,https://www.gaboninitiatives.com/,general,gab
@@ -329,6 +331,7 @@ lhebdo,https://lhebdo.mg/,general,mdg
 libe,https://www.libe.ma/,general,mar
 liberation,https://www.liberation.fr/,general,fra
 liberte_algerie,https://www.liberte-algerie.com/,general,dza
+libertehebdo,https://libertehebdo.fr/,general,fra
 lindependant,https://www.lindependant.fr/,general,fra
 linternaute,https://www.linternaute.com/,general,fra
 livenewsalgerie,http://www.livenewsalgerie.com/,general,dza
@@ -358,6 +361,7 @@ marhba,https://www.marhba.com/,general,tun
 maroc_hebdo,https://maroc-hebdo.press.ma/,general,mar
 matinlibre,https://matinlibre.com/,general,ben
 matv,http://matv.mg/,general,mdg
+maurice_info,http://www.maurice-info.mu/,general,mus
 mediaguinee,http://mediaguinee.org/,general,gin
 mediapart,https://www.mediapart.fr/,general,fra
 metrodakar,https://www.metrodakar.net/,general,sen
@@ -371,6 +375,7 @@ monde_diplomatique,https://www.monde-diplomatique.fr/,general,fra
 mopays,https://mopays.com/,general,mus
 moti,https://moti.news/,general,mus
 musabyimana,http://www.musabyimana.net/,general,rwa
+nation,http://www.nation.sc/,general,syc
 ndarinfo,https://www.ndarinfo.com/,general,sen
 netalkole,https://netalkole.net/,general,hti
 netpress,http://www.netpress.bi/,general,bdi
@@ -415,6 +420,7 @@ rezonodwes,https://rezonodwes.com/,general,hti
 rfi,http://www.rfi.fr/,general,fra
 rnanews,http://rnanews.com/,general,rwa
 rtb,https://www.rtb.bf/,general,bfa
+rtd,http://www.rtd.dj/,general,dji
 rtl,http://5minutes.rtl.lu/laune/,general,lux
 rugbyrama,https://www.rugbyrama.fr/,general,fra
 rwandaises,https://rwandaises.com/,general,rwa
@@ -470,6 +476,7 @@ transactiondalgerie,http://transactiondalgerie.com/,general,dza
 tribuca,https://tribuca.net/,general,fra
 tribunelecteurs,http://www.tribunelecteurs.com/,general,dza
 tunisie14,https://tunisie14.tn/,general,tun
+tunisiefocus,http://www.tunisiefocus.com/,general,tun
 tunisienumerique,https://www.tunisienumerique.com/,general,tun
 ufctogo,http://www.ufctogo.com/,general,tgo
 varmatin,https://www.varmatin.com/,general,fra
