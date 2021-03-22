@@ -1,4 +1,5 @@
 name,homeurl,domain,country
+avisa_hordaland,https://www.avisa-hordaland.no/,general,nor
 dagogtid,https://www.dagogtid.no/,general,nor
 firdaposten,https://www.firdaposten.no/,general,nor
 fitjarposten,https://fitjarposten.no/,general,nor
@@ -9,8 +10,10 @@ hallingdolen,https://www.hallingdolen.no/,general,nor
 hf,https://www.hf.no/,general,nor
 marsteinen,https://marsteinen.no/,general,nor
 morenytt,https://www.morenytt.no/,general,nor
+nordhordland,https://www.nordhordland.no/,general,nor
 samningen,http://www.samningen.no/,general,nor
 sognavis,https://www.sognavis.no/,general,nor
 sunnmoringen,https://www.sunnmoringen.no/,general,nor
+tysnesbladet,http://www.tysnesbladet.no/,general,nor
 vestavind_sveio,https://vestavind-sveio.no/,general,nor
 vestlandsnytt,https://www.vestlandsnytt.no/,general,nor
