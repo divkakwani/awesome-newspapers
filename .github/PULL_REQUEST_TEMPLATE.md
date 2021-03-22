@@ -13,9 +13,9 @@ Fixes # (issue)
 
 
 ## Before submitting
-- [ ] Did you read the [contributor guideline] (https://github.com/divkakwani/awesome-newspapers/blob/main/CONTRIBUTING.md)?
-- [ ]  Does the PR contain changes for exactly one language?
-- [ ]  Does the PR have the format `Update <lang code> sources` ?
+- [ ] Did you read the [contributor guideline](https://github.com/divkakwani/awesome-newspapers/blob/main/CONTRIBUTING.md)?
+- [ ] Does the PR contain changes for exactly one language?
+- [ ] Does the PR have the format `Update <lang code> sources` ?
 
 
 ## Who can review?
