@@ -1,5 +1,5 @@
 # Awesome Newspapers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
-> A curated list of online newspapers covering 55 languages and 3578 sources.
+> A curated list of online newspapers covering 65 languages and 5404 sources.
 
 
 #### Purpose
@@ -16,7 +16,7 @@ If you liked the work, or if this project was useful in your work, do consider s
 * [Afrikaans](newspapers/af.csv) - 4 sources
 * [Albanian](newspapers/sq.csv) - 47 sources
 * [Amharic](newspapers/am.csv) - 10 sources
-* [Arabic](newspapers/ar.csv) - 64 sources
+* [Arabic](newspapers/ar.csv) - 441 sources
 * [Armenian](newspapers/hy.csv) - 29 sources
 * [Assamese](newspapers/as.csv) - 44 sources
 * [Azerbaijani](newspapers/az.csv) - 25 sources
@@ -26,15 +26,16 @@ If you liked the work, or if this project was useful in your work, do consider s
 * [Bulgarian](newspapers/bg.csv) - 57 sources
 * [Burmese](newspapers/my.csv) - 11 sources
 * [Catalan](newspapers/ca.csv) - 22 sources
+* [Central khmer](newspapers/km.csv) - 18 sources
 * [Croatian](newspapers/hr.csv) - 76 sources
 * [Czech](newspapers/cs.csv) - 115 sources
-* [Danish](newspapers/da.csv) - 53 sources
-* [English](newspapers/en.csv) - 82 sources
+* [Danish](newspapers/da.csv) - 54 sources
+* [English](newspapers/en.csv) - 1038 sources
 * [Estonian](newspapers/et.csv) - 23 sources
 * [Finnish](newspapers/fi.csv) - 161 sources
 * [French](newspapers/fr.csv) - 493 sources
 * [Galician](newspapers/gl.csv) - 1 sources
-* [German](newspapers/de.csv) - 98 sources
+* [German](newspapers/de.csv) - 270 sources
 * [Gujarati](newspapers/gu.csv) - 177 sources
 * [Hebrew](newspapers/he.csv) - 16 sources
 * [Hindi](newspapers/hi.csv) - 154 sources
@@ -46,15 +47,24 @@ If you liked the work, or if this project was useful in your work, do consider s
 * [Korean](newspapers/ko.csv) - 62 sources
 * [Latvian](newspapers/lv.csv) - 37 sources
 * [Lithuanian](newspapers/lt.csv) - 45 sources
+* [Luxembourgish](newspapers/lb.csv) - 1 sources
 * [Macedonian](newspapers/mk.csv) - 30 sources
+* [Malagasy](newspapers/mg.csv) - 2 sources
 * [Malay (macrolanguage)](newspapers/ms.csv) - 2 sources
 * [Malayalam](newspapers/ml.csv) - 140 sources
 * [Maltese](newspapers/mt.csv) - 5 sources
 * [Marathi](newspapers/mr.csv) - 155 sources
+* [Modern greek (1453-)](newspapers/el.csv) - 97 sources
 * [Mongolian](newspapers/mn.csv) - 13 sources
-* [Nepali (macrolanguage)](newspapers/ne.csv) - 58 sources
+* [Nepali (macrolanguage)](newspapers/ne.csv) - 66 sources
+* [Norwegian bokmål](newspapers/nb.csv) - 2 sources
+* [Norwegian nynorsk](newspapers/nn.csv) - 15 sources
 * [Oriya (macrolanguage)](newspapers/or.csv) - 43 sources
 * [Panjabi](newspapers/pa.csv) - 157 sources
+* [Persian](newspapers/fa.csv) - 59 sources
+* [Polish](newspapers/pl.csv) - 57 sources
+* [Portuguese](newspapers/pt.csv) - 50 sources
+* [Pushto](newspapers/ps.csv) - 11 sources
 * [Serbian](newspapers/sr.csv) - 51 sources
 * [Sinhala](newspapers/si.csv) - 20 sources
 * [Slovak](newspapers/sk.csv) - 34 sources
