@@ -1,5 +1,5 @@
 # Awesome Newspapers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
-> A curated list of online newspapers covering 79 languages and 7102 sources.
+> A curated list of online newspapers covering 79 languages and 7267 sources.
 
 
 #### Purpose
@@ -24,7 +24,7 @@ If you liked the work, or if this project was useful in your work, do consider s
 * [Azerbaijani](newspapers/az.csv) - 25 sources
 * [Basque](newspapers/eu.csv) - 1 sources
 * [Belarusian](newspapers/be.csv) - 3 sources
-* [Bengali](newspapers/bn.csv) - 88 sources
+* [Bengali](newspapers/bn.csv) - 253 sources
 * [Bulgarian](newspapers/bg.csv) - 57 sources
 * [Burmese](newspapers/my.csv) - 11 sources
 * [Catalan](newspapers/ca.csv) - 22 sources
